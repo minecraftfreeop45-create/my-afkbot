@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Chickiville.aternos.me",
+    "ip": "gnu.aternos.host",
     "port": 59646,
     "version": "",
     "try-creative": false
