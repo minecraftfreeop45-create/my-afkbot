@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Chickiville.aternos.me",
-    "port": 59646,
+    "ip": "Chickiville.aternos.me:59646",
+    "port": ,
     "version": "",
     "try-creative": false
   },
